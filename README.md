@@ -1,4 +1,5 @@
 Propuesta de sitio web para publicar ofertas laborales del rubro musical. 
+
 El sitio web maneja registro, inicio de sesión, envío de formularios y CRUDs.
 Este proyecto es una plataforma dedicada a la gestión y búsqueda de ofertas laborales en el ámbito musical.
 Proporciona a los usuarios la capacidad de explorar y filtrar ofertas de empleo, organizadas en categorías como bandas,
@@ -9,6 +10,8 @@ y guardar un historial de las ofertas que han creado. Además, se implementa un 
 realizar operaciones CRUD para gestionar eficientemente todas las ofertas laborales en la plataforma. Con un diseño amigable y funcionalidades clave,
 este proyecto busca mejorar la experiencia de búsqueda y gestión de empleo en la industria musical. ¡Únete y contribuye al desarrollo de esta herramienta
 esencial para profesionales y entusiastas de la música!
+
+
 Lenguajes: Html, CSS, Javascript.
 Proyecto realizado dentro del curso de Desarrollo de Aplicaciones Web, Cuarto Semestre. (2020)
 
