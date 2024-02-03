@@ -1,0 +1,153 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI';
+    background-color: rgb(255, 228, 255);
+      
+}
+
+::placeholder{
+    color: white;
+    opacity: 1;
+}
+
+body{
+    display: block;
+    margin: auto;
+    width: 700px;
+    height: 100%;
+    background-color: rgb(223, 162, 252);
+    padding-bottom: 10px;  
+}
+
+/* /////////////// OFERTAS EMPLEOS////////////////// */
+
+.ofertas-empleos{
+    width: 650px;
+    margin-left: 20px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border: solid 1px rgb(200, 80, 255);
+    border-radius: 10px;
+}
+#titulo{
+    color: rgb(200, 80, 255);
+}
+#oferta{
+    text-align: center;
+    color: rgb(200, 80, 255);
+    
+}
+
+/* /////////////// OFERTAS EMPLEOS////////////////// */
+
+header{
+    width: 700px;  
+    height: 182px; 
+    background-color: rgb(236, 198, 255);
+}
+
+/* /////////////// SLIDER ////////////////// */
+
+.slider ul, ol {
+    list-style: none;
+    width: 700px; 
+}
+
+.slideshow {
+    width: 700px; 
+}
+.slider li, ul {
+    width: 700px;
+}
+.slider li {
+    overflow: hidden;
+}
+.slider li img {
+    width: 700px;
+    height: 136px; 
+    filter: opacity(0.6);
+}
+.paginacion{
+    display: none;
+}
+.izq{
+    display: none;
+}
+.der{
+    display: none;
+}
+
+/* /////////////// SLIDER ////////////////// */
+
+  
+
+/* /////////////// MENU ////////////////// */
+
+.menu{
+    margin: auto;    
+    width: 430px;
+    background-color: rgb(221, 149, 255);
+}
+
+/* Quita el orden de la lista */
+.menu ul, ol{
+    list-style: none;    
+}
+
+/* Asignamos el color de fondo de cada titulo y el color de fuente */
+#nav li a{
+    background-color: rgb(236, 198, 255);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+}
+
+/* Cambiamos de lugar el menu */
+#nav > li{
+    float: left;
+}
+
+/* Efecto color al pasar mouse */
+#nav li a:hover{
+    background-color: rgb(228, 178, 252);
+}
+
+/* Escondemos los submenus y definimos su largo minimo */
+#nav li ul{
+    display: none;
+    position: absolute;
+    min-width: 150px;
+    width: 150px;
+}
+
+#nav li:hover > ul{
+    display: block;
+}
+
+/* /////////////// MENU ////////////////// */
+
+
+/* /////////////// BOTON ////////////////// */
+.oferta{
+    margin-top: 10px;
+    text-align: center;
+    width: 700px; 
+    height: 30px;   
+    background-color: rgb(223, 162, 252);    
+}
+
+#btnOferta {    
+    width: 350px; 
+    height: 30px;   
+    border: solid 2px rgb(213, 121, 255); 
+    background-color: rgb(221, 147, 255); 
+    color: white; 
+    border-radius: 10px;  
+}
+#btnOferta:hover{
+    background-color: rgb(211, 115, 255);
+}

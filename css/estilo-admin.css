@@ -1,0 +1,63 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI';
+    background-color: rgb(255, 228, 255);    
+}
+
+::placeholder{
+    color: white;
+    opacity: 1;
+}
+
+body{
+    display: block;
+    margin: auto;
+    width: 650px;
+    height: 100%;    
+}
+
+.opciones-admin{
+    width: 650px;
+    margin-left: 20px;
+    padding: 20px 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border: solid 1px rgb(200, 80, 255);
+    border-radius: 10px;
+    background-color: rgb(236, 198, 255);
+    padding-bottom: 30px;    
+}
+
+#titulo{
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin: auto;
+    background-color: rgb(236, 198, 255);
+    -webkit-text-stroke: 1px rgb(221, 149, 255); 
+}
+#img-admin{    
+    width: 200;
+    height: 300px;
+    margin-bottom: 5px;
+    border-radius: 10px;  
+    border: solid 2px rgb(221, 149, 255);
+    filter: opacity(0.6);
+}
+
+#ofertas, #usuarios, #sesion{
+    width: 500px;
+    height: 40px;
+    border: none;
+    color: white;
+    background-color: rgb(226, 164, 255);
+    border-radius: 10px;     
+    margin-top: 10px;  
+    outline: none; 
+}
+
+#ofertas:hover, #usuarios:hover, #sesion:hover{
+    background-color: rgb(209, 110, 255);
+}
