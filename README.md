@@ -13,6 +13,7 @@ esencial para profesionales y entusiastas de la música!
 
 
 Lenguajes: Html, CSS, Javascript.
+
 Proyecto realizado dentro del curso de Desarrollo de Aplicaciones Web, Cuarto Semestre. (2020)
 
 SCREENSHOTS:
