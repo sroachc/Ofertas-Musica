@@ -8,9 +8,7 @@ Los usuarios pueden acceder a diversas funcionalidades, incluyendo la visualizac
 y la gestión de las ofertas que han subido. El sistema de inicio de sesión permite a los usuarios mantener un perfil personalizado
 y guardar un historial de las ofertas que han creado. Además, se implementa un acceso especial para administradores, que pueden 
 realizar operaciones CRUD para gestionar eficientemente todas las ofertas laborales en la plataforma. Con un diseño amigable y funcionalidades clave,
-este proyecto busca mejorar la experiencia de búsqueda y gestión de empleo en la industria musical. ¡Únete y contribuye al desarrollo de esta herramienta
-esencial para profesionales y entusiastas de la música!
-
+este proyecto busca mejorar la experiencia de búsqueda y gestión de empleo en la industria musical. 
 
 Lenguajes: Html, CSS, Javascript.
 
