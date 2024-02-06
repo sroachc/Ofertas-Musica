@@ -1,6 +1,7 @@
-#Propuesta de sitio web para publicar ofertas laborales del rubro musical. 
+# Propuesta de sitio web para publicar ofertas laborales del rubro musical. 
 Proyecto realizado dentro del curso de Desarrollo de Aplicaciones Web, Cuarto Semestre. (2020)
 
+# Funcionalidades 
 El sitio web maneja registro, inicio de sesión, envío de formularios y CRUDs.
 Este proyecto es una plataforma dedicada a la gestión y búsqueda de ofertas laborales en el ámbito musical.
 Proporciona a los usuarios la capacidad de explorar y filtrar ofertas de empleo, organizadas en categorías como bandas,
@@ -11,12 +12,12 @@ y guardar un historial de las ofertas que han creado. Además, se implementa un 
 realizar operaciones CRUD para gestionar eficientemente todas las ofertas laborales en la plataforma. Con un diseño amigable y funcionalidades clave,
 este proyecto busca mejorar la experiencia de búsqueda y gestión de empleo en la industria musical. 
 
-##Lenguajes
+## Lenguajes
 - Html
 - CSS
 - Javascript
 
-###Screenshots
+### Screenshots
 ![image](https://github.com/sroachc/Ofertas-Musica/assets/71527904/80e1d270-9ffa-40ec-893b-05529bd8fc82)
 ![image](https://github.com/sroachc/Ofertas-Musica/assets/71527904/4b5600c2-fdd1-407b-acab-198d96b5145a)
 ![image](https://github.com/sroachc/Ofertas-Musica/assets/71527904/305d66ca-5eee-4245-a4d4-acf73d536ba9)
